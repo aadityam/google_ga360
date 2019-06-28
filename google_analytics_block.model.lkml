@@ -1,4 +1,4 @@
-connection: "bigquery-connectors-ga360"
+connection: "panoply_redshift"
 
 # include all the views
 include: "*.view"
